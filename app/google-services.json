@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837716788441",
+    "project_id": "tabapp-71576",
+    "storage_bucket": "tabapp-71576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837716788441:android:9954c0aa4bcd1ad972aac8",
+        "android_client_info": {
+          "package_name": "com.example.tabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837716788441-4tegpt6tlo2o6nh7g7bpidg3uu1iuk3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYIPP1iSmyCKjb0PVITdI8e9G9ADIbXxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837716788441-4tegpt6tlo2o6nh7g7bpidg3uu1iuk3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

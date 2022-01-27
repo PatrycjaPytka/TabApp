@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/aid_drug_nav"
+    app:startDestination="@id/listAidDrugFragment">
+
+    <fragment
+        android:id="@+id/listAidDrugFragment"
+        android:name="com.example.tabapp.fragments.listAidDrug.ListAidDrugFragment"
+        android:label="fragment_list_aid_drug"
+        tools:layout="@layout/fragment_list_aid_drug" >
+        <action
+            android:id="@+id/action_listAidDrugFragment_to_addAidDrugFragment"
+            app:destination="@id/addAidDrugFragment" />
+        <action
+            android:id="@+id/action_listAidDrugFragment_to_updateAidDrugFragment"
+            app:destination="@id/updateAidDrugFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/updateAidDrugFragment"
+        android:name="com.example.tabapp.fragments.updateAidDrug.UpdateAidDrugFragment"
+        android:label="fragment_update_aid_drug"
+        tools:layout="@layout/fragment_update_aid_drug" >
+        <action
+            android:id="@+id/action_updateAidDrugFragment_to_listAidDrugFragment"
+            app:destination="@id/listAidDrugFragment" />
+        <argument
+            android:name="currentAidDrug"
+            app:argType="com.example.tabapp.fragments.AidDrugModel.AidDrug" />
+    </fragment>
+    <fragment
+        android:id="@+id/addAidDrugFragment"
+        android:name="com.example.tabapp.fragments.addAidDrug.AddAidDrugFragment"
+        android:label="fragment_add_aid_drug"
+        tools:layout="@layout/fragment_add_aid_drug" >
+        <action
+            android:id="@+id/action_addAidDrugFragment_to_listAidDrugFragment"
+            app:destination="@id/listAidDrugFragment" />
+    </fragment>
+</navigation>

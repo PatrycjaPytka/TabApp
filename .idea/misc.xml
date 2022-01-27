@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_add_drug_aid.xml" value="0.25" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_add_person.xml" value="0.25" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_alarm.xml" value="0.33" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_alarm_on_receive.xml" value="0.1" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_close_person.xml" value="0.25" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_firstaid.xml" value="0.33" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_modal_add.xml" value="0.1" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_aid_row.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_person_row.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_row.xml" value="0.33" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_add_aid_drug.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_add_drug.xml" value="0.22" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug.xml" value="0.1" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_add.xml" value="0.22" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_list.xml" value="0.22" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_update.xml" value="0.22" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_list_aid_drug.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_add.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_list.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_update.xml" value="0.22" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_update_aid_drug.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/surfaceview.xml" value="0.15" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/toolbar.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/layout/toolbar_menu.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/menu/delete_aid_menu.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/menu/delete_aid_meny.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/menu/delete_menu.xml" value="0.33" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/menu/delete_person_menu.xml" value="0.1" />
+        <entry key="..\:/Users/M800/AndroidStudioProjects/TabApp2/app/src/main/res/xml/file_paths.xml" value="0.1" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18125" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18125" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_alarm.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_alarm_on_receive.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_close_person.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_firstaid.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_main.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_modal_add.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_settings.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_toolbar.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_aid_row.xml" value="0.33" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_person_row.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/custom_row.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_add_aid_drug.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_add.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_list.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_drug_update.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_list_aid_drug.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_add.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_list.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_person_update.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/Patrycja/AndroidStudioProjects/TabApp2/app/src/main/res/layout/fragment_update_aid_drug.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_close_person.xml" value="0.2" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_modal_add.xml" value="0.264" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/list_layout.xml" value="0.264" />
+        <entry key="..\:/Users/wikto/AndroidStudioProjects/TabApp2/app/src/main/res/layout/new_tab.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

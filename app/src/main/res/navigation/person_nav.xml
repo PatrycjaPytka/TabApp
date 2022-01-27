@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/person_nav"
+    app:startDestination="@id/personListFragment">
+
+    <fragment
+        android:id="@+id/personListFragment"
+        android:name="com.example.tabapp.fragments.listPerson.personListFragment"
+        android:label="fragment_person_list"
+        tools:layout="@layout/fragment_person_list" >
+        <action
+            android:id="@+id/action_personListFragment_to_personAddFragment"
+            app:destination="@id/personAddFragment" />
+        <action
+            android:id="@+id/action_personListFragment_to_personUpdateFragment"
+            app:destination="@id/personUpdateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personAddFragment"
+        android:name="com.example.tabapp.fragments.addPerson.personAddFragment"
+        android:label="fragment_person_add"
+        tools:layout="@layout/fragment_person_add" >
+        <action
+            android:id="@+id/action_personAddFragment_to_personListFragment"
+            app:destination="@id/personListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/personUpdateFragment"
+        android:name="com.example.tabapp.fragments.updatePerson.personUpdateFragment"
+        android:label="fragment_person_update"
+        tools:layout="@layout/fragment_person_update" >
+        <action
+            android:id="@+id/action_personUpdateFragment_to_personListFragment"
+            app:destination="@id/personListFragment" />
+        <argument
+            android:name="currentPerson"
+            app:argType="com.example.tabapp.fragments.Personmodel.Person" />
+    </fragment>
+</navigation>

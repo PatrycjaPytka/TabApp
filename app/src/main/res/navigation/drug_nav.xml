@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/drugListFragment">
+
+    <fragment
+        android:id="@+id/drugListFragment"
+        android:name="com.example.tabapp.fragments.listDrug.DrugListFragment"
+        android:label="fragment_drug_list"
+        tools:layout="@layout/fragment_drug_list" >
+        <action
+            android:id="@+id/action_drugListFragment_to_drugAddFragment"
+            app:destination="@id/drugAddFragment" />
+        <action
+            android:id="@+id/action_drugListFragment_to_drugUpdateFragment"
+            app:destination="@id/drugUpdateFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/drugAddFragment"
+        android:name="com.example.tabapp.fragments.addDrug.DrugAddFragment"
+        android:label="fragment_drug_add"
+        tools:layout="@layout/fragment_drug_add" >
+        <action
+            android:id="@+id/action_drugAddFragment_to_drugListFragment"
+            app:destination="@id/drugListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/drugUpdateFragment"
+        android:name="com.example.tabapp.fragments.updateDrug.DrugUpdateFragment"
+        android:label="fragment_drug_update"
+        tools:layout="@layout/fragment_drug_update" >
+        <action
+            android:id="@+id/action_drugUpdateFragment_to_drugListFragment"
+            app:destination="@id/drugListFragment" />
+        <argument
+            android:name="currentDrug"
+            app:argType="com.example.tabapp.fragments.Drugmodel.Drug" />
+    </fragment>
+</navigation>

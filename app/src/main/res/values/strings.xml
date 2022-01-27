@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TabApp</string>
+    <string name="drugs_name">Nazwa leku</string>
+    <string name="drugs_dose">Dawka</string>
+    <string name="drugs_period">Okres przyjmowania (dni)</string>
+    <string name="drugs_per_day">Ile razy dziennie?</string>
+    <string name="drugs_list">Lista przyjmowanych leków</string>
+    <string name="alarm_settings">Ustawienia alarmu</string>
+    <string name="close_person">Lista osób bliskich</string>
+    <string name="first_aid">Twoja apteczka</string>
+    <string name="scan_alarm">Skanuj kod kreskowy aby wyłączyć alarm</string>
+    <string name="scan_switch_on">Włącz</string>
+    <string name="scan_switch_off">Wyłącz</string>
+    <string name="remind_before">Przypomnienie 10 minut przed przyjęciem leku</string>
+    <string name="picture_btn_text">Zrób zdjęcie aby odczytać nazwę leku</string>
+    <string name="take_photo">Zrób zdjęcie</string>
+    <string name="take_photo_info">Wykonaj zdjęcie kodu kreskowego leku:</string>
+    <string name="take_medicine">Wyłącz alarm</string>
+    <string name="lack_of_med">Nie mam leku</string>
+</resources>
