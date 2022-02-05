@@ -18,5 +18,5 @@ In case when user is a person which cannot be trusted if it goes to medication t
 * Firebase libraries 
 
 ### Setup:
-> To run this project copy it's repository and run the application from some framework (for example Android Studio)
-> If the error which says you don't have a JDK file in defined path occurs you will need to go to file "local.properties" and change path to your JDK
+To run this project copy it's repository and run the application from some framework (for example Android Studio) <br />
+If the error which says you don't have a JDK file in defined path occurs you will need to go to file "local.properties" and change path to your JDK
